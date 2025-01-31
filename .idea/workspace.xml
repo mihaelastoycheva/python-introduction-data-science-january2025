@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649ad695-6519-444e-a01d-0bdbf2ae5c57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04_DataTypes_Variables_SimpleOperations/07_projects_creation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_DataTypes_Variables_SimpleOperations/09_yard_greening.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_DataTypes_Variables_SimpleOperations/04_inch_to_cm.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_DataTypes_Variables_SimpleOperations/04_inch_to_cm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_DataTypes_Variables_SimpleOperations/05_greeting_by_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_DataTypes_Variables_SimpleOperations/05_greeting_by_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_DataTypes_Variables_SimpleOperations/06_concatenate_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_DataTypes_Variables_SimpleOperations/06_concatenate_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_DataTypes_Variables_SimpleOperations/08_pet_shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_DataTypes_Variables_SimpleOperations/08_pet_shop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="649ad695-6519-444e-a01d-0bdbf2ae5c57" name="Changes" comment="completed Data types, Variables and Simple Operations - Lab" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +35,7 @@
     "Python.06_concatenate_data.executor": "Run",
     "Python.07_projects_creation.executor": "Run",
     "Python.08_pet_shop.executor": "Run",
+    "Python.09_yard_greening.executor": "Run",
     "Python.hello_softuni.executor": "Run",
     "Python.rectangle_area.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -210,6 +201,15 @@
       <option name="presentableId" value="Default" />
       <updated>1738262327469</updated>
     </task>
+    <task id="LOCAL-00001" summary="completed Data types, Variables and Simple Operations - Lab">
+      <option name="closed" value="true" />
+      <created>1738344777007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738344777007</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,5 +222,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completed Data types, Variables and Simple Operations - Lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed Data types, Variables and Simple Operations - Lab" />
   </component>
 </project>
