@@ -8,6 +8,9 @@ second_list = []
 for index in range(start_index, end_index + 1):
     second_list.append(input_numbers[index])
 
+#  Or use Slicing:
+# filtered_list = input_numbers[start_index:end_index+1]
+
 min_number = min(second_list)
 max_number = max(second_list)
 
